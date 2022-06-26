@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansThinItalic.eot');
+    src: local('Studio Round Sans Thin Italic'), local('StudioRoundSansThinItalic'),
+        url('eot/StudioRoundSansThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansThinItalic.woff2') format('woff2'),
+        url('woff/StudioRoundSansThinItalic.woff') format('woff'),
+        url('ttf/StudioRoundSansThinItalic.ttf') format('truetype'),
+        url('svg/StudioRoundSansThinItalic.svg#StudioRoundSansThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansLightItalic.eot');
+    src: local('Studio Round Sans Light Italic'), local('StudioRoundSansLightItalic'),
+        url('eot/StudioRoundSansLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansLightItalic.woff2') format('woff2'),
+        url('woff/StudioRoundSansLightItalic.woff') format('woff'),
+        url('ttf/StudioRoundSansLightItalic.ttf') format('truetype'),
+        url('svg/StudioRoundSansLightItalic.svg#StudioRoundSansLightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansLight.eot');
+    src: local('Studio Round Sans Light'), local('StudioRoundSansLight'),
+        url('eot/StudioRoundSansLight.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansLight.woff2') format('woff2'),
+        url('woff/StudioRoundSansLight.woff') format('woff'),
+        url('ttf/StudioRoundSansLight.ttf') format('truetype'),
+        url('svg/StudioRoundSansLight.svg#StudioRoundSansLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansThin.eot');
+    src: local('Studio Round Sans Thin'), local('StudioRoundSansThin'),
+        url('eot/StudioRoundSansThin.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansThin.woff2') format('woff2'),
+        url('woff/StudioRoundSansThin.woff') format('woff'),
+        url('ttf/StudioRoundSansThin.ttf') format('truetype'),
+        url('svg/StudioRoundSansThin.svg#StudioRoundSansThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansRegular.eot');
+    src: local('Studio Round Sans Regular'), local('StudioRoundSansRegular'),
+        url('eot/StudioRoundSansRegular.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansRegular.woff2') format('woff2'),
+        url('woff/StudioRoundSansRegular.woff') format('woff'),
+        url('ttf/StudioRoundSansRegular.ttf') format('truetype'),
+        url('svg/StudioRoundSansRegular.svg#StudioRoundSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansBold.eot');
+    src: local('Studio Round Sans Bold'), local('StudioRoundSansBold'),
+        url('eot/StudioRoundSansBold.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansBold.woff2') format('woff2'),
+        url('woff/StudioRoundSansBold.woff') format('woff'),
+        url('ttf/StudioRoundSansBold.ttf') format('truetype'),
+        url('svg/StudioRoundSansBold.svg#StudioRoundSansBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansBoldItalic.eot');
+    src: local('Studio Round Sans Bold Italic'), local('StudioRoundSansBoldItalic'),
+        url('eot/StudioRoundSansBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansBoldItalic.woff2') format('woff2'),
+        url('woff/StudioRoundSansBoldItalic.woff') format('woff'),
+        url('ttf/StudioRoundSansBoldItalic.ttf') format('truetype'),
+        url('svg/StudioRoundSansBoldItalic.svg#StudioRoundSansBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Studio Round Sans';
+    src: url('eot/StudioRoundSansItalic.eot');
+    src: local('Studio Round Sans Italic'), local('StudioRoundSansItalic'),
+        url('eot/StudioRoundSansItalic.eot?#iefix') format('embedded-opentype'),
+        url('woff2/StudioRoundSansItalic.woff2') format('woff2'),
+        url('woff/StudioRoundSansItalic.woff') format('woff'),
+        url('ttf/StudioRoundSansItalic.ttf') format('truetype'),
+        url('svg/StudioRoundSansItalic.svg#StudioRoundSansItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+

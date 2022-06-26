@@ -1,0 +1,2 @@
+# Studio Round Sans
+This font is developed by [Ridz Studio](https://www.ridzstudio.com "Ridz Studio"). The purpose of the font is to be used on our logo and express our branding in particular. Unfortunately Studio Round Sans is not a font we license to developers. Any kind of personal or commercial use of the font other than [Ridz Studio](https://www.ridzstudio.com "Ridz Studio") or any of its [subsidiaries](https://www.ridzstudio.com/subsidiaries "subsidiaries") is prohibated. 
